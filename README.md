@@ -1856,8 +1856,11 @@ import 'moment/locale/es';
 moment.locale('fr');
 ```
 
-This will only work for locales that have been explicitly imported before.
+Added
+Text
+Here
 
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
